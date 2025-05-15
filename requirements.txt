@@ -1,0 +1,8 @@
+langfuse==2.60.4
+langgraph==0.4.3
+langchain==0.3.25
+qdrant-client==1.14.2
+langchain_core==0.3.59
+langchain-ollama==0.3.2
+langchain-openai==0.3.16
+langchain-community==0.3.23
